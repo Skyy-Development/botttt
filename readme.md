@@ -1,5 +1,7 @@
 [
+
     {
+
         "Join_message": "Create your own bot https://discord.gg/73t72uNYFp\nFollow my tiktok @luka2235.bots"
     },
     {
@@ -20,4 +22,6 @@
     {
         "Level": "100"
     }
+    
 ]
+
