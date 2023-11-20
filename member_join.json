@@ -1,23 +1,8 @@
 [
     {
-        "Join_message": "Made By Sky"
+        "Status": "Starting"
     },
     {
-        "Status": "LObby Bot v10.0.3"
-    },
-    {
-        "Skin": "Character_Pencil_Cherry"
-    },
-    {
-        "Backpack": "Backpack_OceanBreeze"
-    },
-    {
-        "Pickaxe": "Pickaxe_ID_013_Teslacoil"
-    },
-    {
-        "Emote": "EID_Devotion"
-    },
-    {
-        "Level": "100"
+        "Status2": "Lobby Bot v10.0.4"
     }
 ]
